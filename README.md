@@ -22,3 +22,5 @@ Then, open up [tests/test_katas.py](./tests/test_katas.py) and start fixing thos
 Once complete, you should see the following test output:
 
 ![passing output](./screenshots/passing.png)
+
+__Author__ = "Allyson Engle w/help from demos, Module material, Youtube videos, Python doc website, and Udemy ZTM Py Course"
